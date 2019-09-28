@@ -7,7 +7,7 @@ com.youku.phone
 com.sinovatech.unicom.ui
 cmb.pb
 com.MobileTicket
-com.tecent.mm
+com.tencent.mm
 com.xunlei.downloadprovider
 com.tencent.qqlive
 com.tencent.wework
