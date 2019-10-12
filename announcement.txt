@@ -1,15 +1,1 @@
-<html>
-
-<head>
-<style type="text/css">
-h1 {color: red}
-p {color: blue}
-</style>
-</head>
-
-<body>
-<h1>header 1</h1>
-<p>A paragraph.</p>
-</body>
-
-</html>
+D4sEAA8AA8AA8AFSAKj/CqWFnOWNiu68mqeUoeS2juWcgKi/gee2v+e3r6WcmOisg+evla+8fOWLr+eDvaS8iuW5seSTjaWIoOm/qOSIhqiKcue+ueaahKeoo+WqmuWAp7CfiJOj50GyVcAA8A==
